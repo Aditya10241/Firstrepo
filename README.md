@@ -5,9 +5,9 @@ Choosing a license for your GitHub repository is important because it can help p
 GitHub provides a license chooser tool that can help you select a license based on your project's needs. It's important to review and understand the terms of the license you choose, as it will determine how your code can be used and distributed by others.
 
 # Types of License
-1.MIT
-2.BSD
-3.Apache
+#1.MIT
+#2.BSD
+#3.Apache
 #1. MIT
 In GitHub, a license refers to a legal agreement that determines how a repository's code can be used and distributed by others. When you create a new repository on GitHub, you have the option to choose a license for your code.
 There are several types of licenses available, each with its own terms and conditions. Some licenses allow anyone to use and modify the code, while others restrict the use and distribution of the code.
