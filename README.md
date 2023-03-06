@@ -10,10 +10,10 @@ GitHub provides a license chooser tool that can help you select a license based 
 # 2.BSD
 # 3.Apache
 # 1. MIT
-In GitHub, a license refers to a legal agreement that determines how a repository's code can be used and distributed by others. When you create a new repository on GitHub, you have the option to choose a license for your code.
-There are several types of licenses available, each with its own terms and conditions. Some licenses allow anyone to use and modify the code, while others restrict the use and distribution of the code.
-Choosing a license for your GitHub repository is important because it can help protect your intellectual property rights and clarify how others can use your code. Additionally, many open source projects require a specific license to participate in the project, so choosing the right license can also help attract contributors to your project.
-GitHub provides a license chooser tool that can help you select a license based on your project's needs. It's important to review and understand the terms of the license you choose, as it will determine how your code can be used and distributed by others.
+
+MIT is a type of open-source software license used by many projects hosted on GitHub. The MIT License is a permissive software license that allows users to use, modify, and distribute the code, including commercially, without any restriction. It is one of the most popular open-source licenses due to its simplicity and flexibility.
+Under the MIT License, the original authors of the software still retain the copyright, but grant others the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software without restriction. However, the software is provided "as is," without warranty of any kind, and the authors of the software cannot be held liable for any damages or liabilities that arise from the use of the software.
+Many popular open-source projects, including jQuery, Rails, and Node.js, are licensed under the MIT License.
 # 2. BSD
 BSD (Berkeley Software Distribution) is a family of permissive free software licenses that are commonly used for open source software projects, including those hosted on GitHub. These licenses are named after the University of California, Berkeley, where the first version of the BSD operating system was developed.
 The BSD licenses are permissive in that they allow users to modify and redistribute the software, even for commercial purposes, with few restrictions. There are several variants of the BSD license, but they all share this permissive approach to licensing.
