@@ -22,8 +22,8 @@ The 3-clause BSD license includes the following three clauses:
 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
 3. Neither the name of the [organization] nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
-4. # 3. APACHE
-5. The Apache License is a permissive open source software license that is commonly used for projects hosted on GitHub. It is named after the Apache Software Foundation, which created and maintains the license.
+# 3. APACHE
+ The Apache License is a permissive open source software license that is commonly used for projects hosted on GitHub. It is named after the Apache Software Foundation, which created and maintains the license.
 The Apache License is similar to other permissive licenses, such as the MIT and BSD licenses, in that it allows users to use, modify, and distribute the code, even for commercial purposes, with few restrictions. However, it also includes a patent grant, which provides additional protection against patent litigation for users of the software.
 The Apache License has two versions: version 1.0 and version 2.0. Version 2.0 is the most commonly used version and includes the following three main clauses:
 1.Grant of Copyright License: This clause grants users a license to use, modify, and distribute the code, subject to the conditions of the license.
